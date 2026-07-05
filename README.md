@@ -21,3 +21,4 @@ star
 start
 end
 weeee
+love
