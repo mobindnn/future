@@ -31,3 +31,4 @@ weeknd
 twerk
 owl
 fifa
+uefa
