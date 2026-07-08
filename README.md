@@ -40,3 +40,4 @@ gaga
 base
 gift
 shoe
+yamal
